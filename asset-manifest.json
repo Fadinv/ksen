@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ksen/static/css/main.644b26e2.css",
+    "main.css": "/ksen/static/css/main.279a2366.css",
     "main.js": "/ksen/static/js/main.0724ad00.js",
     "static/js/787.28cb0dcd.chunk.js": "/ksen/static/js/787.28cb0dcd.chunk.js",
     "static/media/photo_2022-05-07 13.55.35.jpeg": "/ksen/static/media/photo_2022-05-07 13.55.35.0674311e4ea18eafb071.jpeg",
     "index.html": "/ksen/index.html",
-    "main.644b26e2.css.map": "/ksen/static/css/main.644b26e2.css.map",
+    "main.279a2366.css.map": "/ksen/static/css/main.279a2366.css.map",
     "main.0724ad00.js.map": "/ksen/static/js/main.0724ad00.js.map",
     "787.28cb0dcd.chunk.js.map": "/ksen/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.644b26e2.css",
+    "static/css/main.279a2366.css",
     "static/js/main.0724ad00.js"
   ]
 }
