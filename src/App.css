@@ -15,6 +15,42 @@
 	bottom: 0;
 	overflow: hidden;
 }
+.images-box {
+	z-index: 1;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	overflow: hidden;
+	transition: opacity 1s ease-out;
+	opacity: 0;
+}
+
+.images-box.active {
+	opacity: .7;
+}
+
+.yes-text-box__frame > * + * {
+	margin-top: 4px;
+}
+.yes-text-box {
+	z-index: 2;
+	margin: auto;
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 20px;
+	border-radius: 20px;
+	opacity: 0;
+	transition: opacity 1s ease-out;
+	font-weight: bold;
+}
+
+.yes-text-box.active {
+	opacity: .85;
+}
 
 .text-box {
 	display: flex;
